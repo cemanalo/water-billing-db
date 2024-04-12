@@ -1,0 +1,21 @@
+{
+  "name": "water-billing-db",
+  "version": "0.0.1",
+  "description": "db migrate scripts for water billing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "water",
+    "billing",
+    "db-migrate",
+    "postgresql"
+  ],
+  "author": "Carlo Eugene Manalo",
+  "license": "ISC",
+  "dependencies": {
+    "db-migrate": "^0.11.14",
+    "db-migrate-pg": "^1.5.2"
+  }
+}

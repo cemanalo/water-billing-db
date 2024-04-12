@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "postgres",
+    "password": "example",
+    "host": "localhost",
+    "database": "water_billing",
+    "port": "5432"
+  }
+}
